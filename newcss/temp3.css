@@ -1,0 +1,40 @@
+.k1{
+    width:400px;
+    height:85vh;
+    position: absolute;
+    top:50px;
+    left:150px;
+    transform:rotate(-28deg);
+    outline:inset;
+} 
+h1{
+    color: #007bff;
+}
+h3{
+    color: #007bff;
+}
+h1,.m2,h3{
+    text-align:right;
+}
+.m1,h2{
+    text-align: left;
+}
+.k2,.k3{
+    width:400px;
+    height:45vh;
+}
+.k4{
+    position: absolute;
+    top:50px;
+    right:200px;
+    transform:rotate(25deg);
+    outline:inset;
+}
+.b2{
+    width:400px;
+    height:275px;
+}
+.k5{
+    width:400px;
+    height:250px;
+}
