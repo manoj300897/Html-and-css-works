@@ -1,0 +1,14 @@
+.img1{
+    border:15px solid purple;
+    padding:40px;
+    margin:20px;
+}
+.but2{
+    border-radius:40px;
+}
+.but1{
+    height:30%;
+    width:20%;
+    border:20px dotted green;
+    margin:10px;
+}

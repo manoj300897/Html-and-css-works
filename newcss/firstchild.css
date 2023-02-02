@@ -1,0 +1,23 @@
+/* .pg2:hover{
+    font-size: large;
+    color:red;
+    font-family:Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+}
+.pg3:hover{
+    font-size: large;
+    color:red;
+    font-family:Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+} */
+/* .pg2:first-child b{
+    font-size: large;
+    color:red;
+    } */
+     .pg1:nth-child b{
+        font-size: large;
+        color:blue;
+    }
+     
+
+    
