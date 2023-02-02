@@ -1,0 +1,12 @@
+
+.k1{
+    background-image: url(https://images.pexels.com/photos/220182/pexels-photo-220182.jpeg?auto=compress&cs=tinysrgb&w=600);
+    opacity: 1;
+    width:60%;
+    height:60vh;
+    margin-top:10%;
+    margin-left:20%;
+}
+p{
+    text-align: center;
+}
