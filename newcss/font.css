@@ -1,0 +1,14 @@
+.h1_TNR{
+    font-family:'Times New Roman', Times, serif;
+}
+.h1_serif{
+    font-family:serif,TimesNewRoman;
+}
+.h1_Noto{
+    font-family:NotoSansSignwriting;
+}
+.h1_NotoReplace{
+    font-family:NotoSansSignwriting,serif,TimesNewRoman;
+}
+
+
